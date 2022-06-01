@@ -9,5 +9,10 @@ class FrikbapiApplicationTests {
     @Test
     void contextLoads() {
     }
+    @Test
+    void testgreeting(){
+
+
+    }
 
 }
